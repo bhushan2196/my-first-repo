@@ -1,1 +1,1 @@
-"hello github"
+"Welcome to my first GitHub repository!"
